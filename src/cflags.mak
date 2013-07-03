@@ -1,0 +1,1 @@
+CCFLAGS = -ffreestanding -O2 -Wall -Wextra -I../include/
